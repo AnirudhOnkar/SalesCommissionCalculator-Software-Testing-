@@ -8,7 +8,7 @@ Simple and Clear Output: Displays the total sales and the calculated commission.
 # Usage
 Clone the repository:
 
-git clone https://github.com/yourusername/SalesCommissionCalculator.git
+git clone https://github.com/AnirudhOnkar/SalesCommissionCalculator-Software-Testing-/blob/main/README.md
 Navigate to the repository directory:
 
 cd SalesCommissionCalculator
